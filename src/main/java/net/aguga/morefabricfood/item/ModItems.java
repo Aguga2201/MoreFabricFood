@@ -12,7 +12,7 @@ import java.sql.Struct;
 public class ModItems
 {
     public static final Item IGNORE = registerItem("ignore",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+            new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD)));
 
     private static Item registerItem(String name, Item item)
     {

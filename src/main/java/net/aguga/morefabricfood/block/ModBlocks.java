@@ -1,6 +1,7 @@
 package net.aguga.morefabricfood.block;
 
 import net.aguga.morefabricfood.MoreFabricFood;
+import net.aguga.morefabricfood.item.ModItemGroup;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
@@ -10,12 +11,11 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
-import org.apache.commons.compress.compressors.lz77support.LZ77Compressor;
 
 public class ModBlocks
 {
     public static final Block BLOCKIGNORE = registerBlock("blockignore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().slipperiness(1)), ItemGroup.MISC);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().slipperiness(1)), ModItemGroup.MORE_FABRIC_FOOD);
 
     private static Block registerBlock(String name, Block block, ItemGroup group)
     {

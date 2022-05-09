@@ -2,5 +2,7 @@
   "item.morefabricfood.ignore": "Ignore",
 
 
-  "block.morefabricfood.blockignore": "BlockIgnore"
+  "block.morefabricfood.blockignore": "BlockIgnore",
+
+  "itemGroup.morefabricfood.morefabricfood": "More Fabric Food"
 }
