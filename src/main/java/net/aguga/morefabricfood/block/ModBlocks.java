@@ -14,8 +14,10 @@ import net.minecraft.util.registry.Registry;
 
 public class ModBlocks
 {
+    /*
     public static final Block BLOCKIGNORE = registerBlock("blockignore",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().slipperiness(1)), ModItemGroup.MORE_FABRIC_FOOD);
+     */
 
     private static Block registerBlock(String name, Block block, ItemGroup group)
     {

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morefabricfood:strawberry"
+    },
+    {
+      "item": "morefabricfood:strawberry"
+    },
+    {
+      "item": "morefabricfood:strawberry"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "morefabricfood:strawberry_jam",
+    "count": 1
+  }
+}

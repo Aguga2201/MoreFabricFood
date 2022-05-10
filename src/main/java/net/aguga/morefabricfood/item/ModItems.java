@@ -14,8 +14,14 @@ public class ModItems
     public static final Item STRAWBERRY = registerItem("strawberry",
             new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD).food(ModFoodComponents.STRAWBERRY)));
 
+    public static final Item STRAWBERRY_JAM = registerItem("strawberry_jam",
+            new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD)));
+
     public static final Item RASPBERRY = registerItem("raspberry",
             new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD).food(ModFoodComponents.RASPBERRY)));
+
+    public static final Item RASPBERRY_JAM = registerItem("raspberry_jam",
+            new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD)));
 
     private static Item registerItem(String name, Item item)
     {
