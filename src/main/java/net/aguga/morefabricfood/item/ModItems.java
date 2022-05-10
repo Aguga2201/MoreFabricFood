@@ -14,6 +14,9 @@ public class ModItems
     public static final Item STRAWBERRY = registerItem("strawberry",
             new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD).food(ModFoodComponents.STRAWBERRY)));
 
+    public static final Item RASPBERRY = registerItem("raspberry",
+            new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD).food(ModFoodComponents.RASPBERRY)));
+
     private static Item registerItem(String name, Item item)
     {
         return Registry.register(Registry.ITEM, new Identifier(MoreFabricFood.MOD_ID, name), item);
