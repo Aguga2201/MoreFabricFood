@@ -11,8 +11,8 @@ import java.sql.Struct;
 
 public class ModItems
 {
-    public static final Item IGNORE = registerItem("ignore",
-            new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD)));
+    public static final Item STRAWBERRY = registerItem("strawberry",
+            new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD).food(ModFoodComponents.STRAWBERRY)));
 
     private static Item registerItem(String name, Item item)
     {

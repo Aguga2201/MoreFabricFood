@@ -2,6 +2,6 @@
   "parent": "item/generated",
   "textures":
   {
-    "layer0": "morefabricfood:item/ignore"
+    "layer0": "morefabricfood:item/strawberry"
   }
 }
