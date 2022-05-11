@@ -1,8 +1,10 @@
 {
   "item.morefabricfood.strawberry": "Strawberry",
   "item.morefabricfood.strawberry_jam": "Strawberry Jam",
+  "item.morefabricfood.strawberry_jam_bread": "Strawberry Jam Bread",
   "item.morefabricfood.raspberry": "Raspberry",
   "item.morefabricfood.raspberry_jam": "Raspberry Jam",
+  "item.morefabricfood.raspberry_jam_bread": "Raspberry Jam Bread",
 
 
   "block.morefabricfood.blockignore": "BlockIgnore",
