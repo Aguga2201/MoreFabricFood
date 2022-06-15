@@ -1,5 +1,5 @@
 <h1>MoreFabricFood</h1>
-MoreFabricFood is a Minecraft Mod for the Fabric Modloader that I'm working on in my free time. At the moment the mod is far from finished. But don't expect it to be finished in the near future because I'm just a person who doesn't always want to code and doesn't have endless free time either.
+MoreFabricFood is a Minecraft Mod for the Fabric Modloader that I'm working on in my free time. At the moment the mod is far from finished. But don't expect it to be finished in the near future because I'm just one person who doesn't always want to code and doesn't have endless free time either.
 
 <h1>How to play:</h1>
 <h3>Prebuild Packages</h3>
