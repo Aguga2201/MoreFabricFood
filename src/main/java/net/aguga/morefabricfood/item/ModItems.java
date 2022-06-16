@@ -28,8 +28,18 @@ public class ModItems
     public static final Item RASPBERRY_JAM = registerItem("raspberry_jam",
             new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD)));
 
-    public static final Item RASPBERRY__JAM_BREAD = registerItem("raspberry_jam_bread",
+    public static final Item RASPBERRY_JAM_BREAD = registerItem("raspberry_jam_bread",
             new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD).food(ModFoodComponents.RASPBERRY_JAM_BREAD)));
+
+    //Cherrys
+    public static final Item CHERRY = registerItem("cherry",
+            new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD).food(ModFoodComponents.CHERRY)));
+
+    public static final Item CHERRY_JAM = registerItem("cherry_jam",
+            new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD)));
+
+    public static final Item CHERRY_JAM_BREAD = registerItem("cherry_jam_bread",
+            new Item(new FabricItemSettings().group(ModItemGroup.MORE_FABRIC_FOOD).food(ModFoodComponents.CHERRY_JAM_BREAD)));
 
     private static Item registerItem(String name, Item item)
     {

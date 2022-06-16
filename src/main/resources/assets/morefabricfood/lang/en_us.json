@@ -1,10 +1,15 @@
 {
   "item.morefabricfood.strawberry": "Strawberry",
   "item.morefabricfood.strawberry_jam": "Strawberry Jam",
-  "item.morefabricfood.strawberry_jam_bread": "Strawberry Jam Bread",
+  "item.morefabricfood.strawberry_jam_bread": "Bread with strawberry jam",
+
   "item.morefabricfood.raspberry": "Raspberry",
   "item.morefabricfood.raspberry_jam": "Raspberry Jam",
-  "item.morefabricfood.raspberry_jam_bread": "Raspberry Jam Bread",
+  "item.morefabricfood.raspberry_jam_bread": "Bread with raspberry jam",
+
+  "item.morefabricfood.cherry": "Cherry",
+  "item.morefabricfood.cherry_jam": "Cherry Jam",
+  "item.morefabricfood.cherry_jam_bread": "Bread with cherry jam",
 
 
   "block.morefabricfood.blockignore": "BlockIgnore",
